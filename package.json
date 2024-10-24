@@ -1,9 +1,9 @@
 {
-  "homepage": "https://arjunnaiduravuri.githubio/EC",
+  "homepage": "https://arjunnaiduravuri.github.io/EC/",
 
   "name": "e-commerce",
   
-  "private": true,
+  "private": false,
   
   "version": "0.0.0",
   

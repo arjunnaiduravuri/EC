@@ -1,0 +1,14 @@
+main{
+    height: 600px;
+    overflow: auto;
+}
+.cart-empty{
+    font-size: 80px;
+    color: red;
+    
+}
+
+.image:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
